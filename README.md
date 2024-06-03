@@ -1,1 +1,1 @@
-# These notebooks explore the Fundamentals of NLP
+# These notebooks present the fundamental concepts of NLP
